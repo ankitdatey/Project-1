@@ -1,4 +1,4 @@
-# Project1 - Vrinda Store Data Analysis (Using Ms- Excel)
+# Project-1 - Vrinda Store Data Analysis (Ms- Excel)
 [The data provided in Vrinda Store Analysis Protected File]
 
   Objective: To undestand 2022 sales and based on that grow more sales in 2023.							
